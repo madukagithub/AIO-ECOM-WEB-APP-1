@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AIO WEB 1.props" />
+</Project>
